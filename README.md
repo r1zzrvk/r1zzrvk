@@ -9,7 +9,7 @@ I have been programming for 2 years. I use react redux typescript as my main dev
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [https://t.me/r1zzrvk](mailto:https://t.me/r1zzrvk)
 *   🧠  I'm learning TS, NextJS and any other interesting technology on my way
-*   ⚡  In my spare time, I develop my own react-book-store pet project. Now he looks rather weak, but everything is ahead))
+*   ⚡  In my spare time, I develop my own react-book-store pet project. Now it looks rather weak, but everything is ahead))
 
 ### Skills
 <p align="left">
