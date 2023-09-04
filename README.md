@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I have been programming more than 3 years. I use react redux typescript as my main development tools. I work in fintech in a Russian company. There's nothing more for me to tell
+I have been programming for more than 3 years. I use react, redux, typescript as my main development stack. I currently work in a large fintech company based in Moscow. 
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [https://t.me/r1zzrvk](mailto:https://t.me/r1zzrvk)
-*   🧠  I'm learning TS, NextJS and any other interesting technology on my way
-*   ⚡  In my spare time, I develop my own pet project. Now it looks rather weak, but everything is ahead))
+*   🧠  I'm learning Module Federation, Vue and some other interesting technologies on my way
+*   ⚡  In my spare time, I develop my own pet project and try using different libraries that are trending right now.
 
 ### Skills
 <p align="left">
