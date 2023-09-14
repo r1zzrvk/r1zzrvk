@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I have been programming for more than 3 years. I use react, redux, typescript as my main development stack. I currently work in a large fintech company based in Moscow. 
+I have been programming for more than 3 years, using react, redux, typescript as my main development stack. I am currently engaged in different project, working in a outsource/outstuff company. 
 
-*   🌍  I'm based in Moscow
+*   🌍  I'm currently based in Yerevan
 *   ✉️  You can contact me at [https://t.me/r1zzrvk](mailto:https://t.me/r1zzrvk)
 *   🧠  I'm learning Module Federation, Vue and some other interesting technologies on my way
 *   ⚡  In my spare time, I develop my own pet project and try using different libraries that are trending right now.
