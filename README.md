@@ -23,7 +23,7 @@ I have been programming for more than 3 years, using react, redux, typescript as
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
       </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+      <img src="https://svgshare.com/i/xgm.svg" alt="nextjs" width="40" height="40"/>
       </a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
