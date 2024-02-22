@@ -6,7 +6,7 @@ I have been programming for more than 3 years, using react, redux, typescript as
 
 - 🧠 I'm learning Module Federation, Vue and some other interesting technologies on my way
 - ⚡ In my spare time, I develop my own pet project and try using different libraries that are trending right now.
-- ✉️ You can contact me at [Telegram](mailto:https://t.me/r1zzrvk)
+- ✉️ You can contact me on [Telegram](mailto:https://t.me/r1zzrvk)
 
 ### Languages and libraries
 
