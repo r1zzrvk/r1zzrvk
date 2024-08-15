@@ -2,11 +2,9 @@
 
 ## Frontend developer
 
-I have been programming for more than 3 years, using react, redux, typescript as my main development stack. I am currently engaged in different projects, working in a outsource/outstuff company.
+I've been coding in JavaScript for over 3 years now, mostly focusing on React for building dynamic and user-friendly interfaces. I've worked on a bunch of different projects, including some pretty complex stuff in fintech. I was also engaged in development of an online monitoring system, a corporate chat and dynamic forms. I'm passionate about developing my own personal projects as well.
 
-- 🧠 I'm learning Module Federation, Vue and some other interesting technologies on my way
-- ⚡ In my spare time, I develop my own pet project and try using different libraries that are trending right now.
-- ✉️ You can contact me on [Telegram](mailto:https://t.me/r1zzrvk)
+✉️ You can contact me on [Telegram](mailto:https://t.me/r1zzrvk)
 
 ### Languages and libraries
 
@@ -81,4 +79,3 @@ I have been programming for more than 3 years, using react, redux, typescript as
 <a href="https://www.stackoverflow.com/users/r1zzrvk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1zzrvk&show_icons=true&locale=en&layout=compact" alt="r1zzrvk" />
