@@ -2,7 +2,7 @@
 
 ## Frontend developer
 
-I've been coding in JavaScript for over 3 years now, mostly focusing on React for building dynamic and user-friendly interfaces. I've worked on a bunch of different projects, including some pretty complex stuff in fintech. I was also engaged in development of an online monitoring system, a corporate chat and dynamic forms. I'm passionate about developing my own personal projects as well.
+I've been coding in JavaScript for over 4 years now, mostly focusing on React for building dynamic and user-friendly interfaces. I've worked on a bunch of different projects, including some pretty complex stuff in fintech. I was also engaged in development of an online monitoring system, a corporate chat and dynamic forms. I'm passionate about developing my own personal projects as well.
 
 ✉️ You can contact me on [Telegram](mailto:https://t.me/r1zzrvk)
 
