@@ -9,7 +9,6 @@ I develop frontend and backend applications using JavaScript.
 You can contact me:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r1zzrvk)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/stanislav-vialkin-6552002a8)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/23096280/r1zzrvk)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r1zzrvk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1zzrvk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
